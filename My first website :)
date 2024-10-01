@@ -1,0 +1,15 @@
+<h1>Tomisin Ogbebor</h1>
+<p>I am learning to code because I want to become proficient at it. I am wanting to go into 
+Fintech as my final goal and I do think it is important. Right now I am in my first year of computer science.
+I don’t know anything about coding but I would love to learn a lot. I have a beginner module on the basics of coding and I do want to get at least 70%.</p>
+<style>
+body {
+background-color: blue
+}
+h1 {
+color: grey
+}
+p {
+colour: black
+}
+</style>
